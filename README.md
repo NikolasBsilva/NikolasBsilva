@@ -8,8 +8,11 @@ Consultor de Infraestrutura | QA em formação | Estudante para Certificação C
 
 Sou apaixonado por tecnologia, qualidade de software e infraestrutura. Atuo como consultor de redes, cloud e cibersegurança, realizando testes de penetração e ajudando empresas a fortalecer sua segurança. Atualmente, estou em transição para a área de Qualidade de Software, construindo projetos práticos, automatizando testes e me preparando para a CTFL.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasBsilva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasBsilva&layout=compact)
+<div>
+<a href="https://github.com/NikolasBsilva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasBsilva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolasBsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
